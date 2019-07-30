@@ -1,0 +1,32 @@
+body,td,th {font-size: 12px;color: #000;line-height: 21px;}
+body {margin: 0px;}
+a {color: #000;text-decoration: none;}
+a:hover {text-decoration: underline;}
+.img {background-color: #FFF;padding: 1px;border: 1px solid #cdccc8;}
+.font12whitebold, .font12whitebold a {font-weight: bold;color: #FFF;text-decoration: none;}
+.font12blue{color: #0349bd;}
+.font12blue a{color: #1C1C1D;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 28px;}
+
+
+.font12blue a:hover {color: #0349bd;text-decoration: none;}
+.font9ls a{color:#0C3A8F;line-height: 29px;}
+.rcontent{padding:8px;}
+.search {background-image: url(images/sbg.gif);background-repeat: no-repeat;background-position: 0px 0px;color: #b3b3b3;height: 18px;border: none;padding-top: 4px;padding-right: 0px;padding-bottom: 0px;padding-left: 2px;margin: 0px;width: 100%;}
+.search1px {border: 3px solid #e3e3e3;}
+.font14bold {font-size: 14px;line-height: 24px;font-weight: bold;}
+.img{background-color: #FFF;padding: 1px;border: 1px solid #cacaca;}
+.font14 a {font-size: 14px;line-height: 24px;}
+.font14graybold, .font14graybold a {font-size: 14px;line-height: 24px;font-weight: bold;color: #535353;}
+.font12gray, .font12gray a {color: #666;}
+.font18bluebold, .font18bluebold a {font-size: 21px;line-height: 280%;font-weight: bold;color: #305798;}
+.font21bluebold, .font21bluebold a {font-size: 21px;line-height: 180%;font-weight: bold;color: #0349bd;}
+.font12red, .font12red a {color: #DB251D;}
+.font14blue {font-size: 18px;line-height: 24px;height: 35px;color: #0149c0;}
+.font14blue a {text-decoration: none;color: #141111;}
+.font14blue a:hover {text-decoration: none;}
+.font10gray {font-size: 10px;color: #666;}
+.font12bluebold, .font12bluebold a {font-weight: bold;color: #0349bd;}
+.font14withebold, .font14withebold a {font-size: 14px;font-weight: bold;color: #FFF;}

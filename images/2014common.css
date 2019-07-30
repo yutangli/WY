@@ -1,0 +1,13 @@
+/*头部统一*/
+.head{width: 990px;height:90px;overflow:hidden;background-color:#FFF; clear:both;margin:0 auto;padding: 0px;}
+.head a{font-size:12px; line-height:22px; color:#000; text-decoration:none;}
+.head a:hover{color:#c00;}
+.head_text{width:766px;height:55px;}
+.dhtext{float:left;margin-top:8px;text-align:center;}
+.dhmore{float:left;border:1px solid #ccc;width:40px;height:16px;text-align:center;overflow:hidden;line-height:16px;margin-top:5px;padding-top:1px;background-color:#FFF;}
+.head_dh{width:766px;height:28px;line-height:28px;padding-top:2px;}
+#Layer1,#Layer2,#Layer1 a,#Layer2 a{font-size:12px;color:#000;line-height:22px;}
+#Layer1 a:hover,#Layer2 a:hover{color:#c00;}
+/*底部统一*/
+.footpub,.footpub a{color:#000;text-decoration: none;line-height:21px;font-size:12px;}
+.footpub a:hover,a:active,a:focus{color:#c00;}
